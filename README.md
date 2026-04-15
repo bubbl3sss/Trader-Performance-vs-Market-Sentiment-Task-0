@@ -69,6 +69,16 @@ Kaggle
 Jupyter Notebook 
 
 ## How to Run
-pip install pandas numpy matplotlib
-jupyter notebook
 
+1. Clone the repository
+git clone https://github.com/bubbl3sss/Trader-Performance-vs-Market-Sentiment-Task-0/
+cd trader-sentiment-analysis
+2. Install dependencies
+pip install -r requirements.txt
+3. Download datasets
+
+Download datasets from the links above
+Run the Jupyter Notebook
+Then open:
+notebook/trader_sentiment_analysis.ipynb
+Run all cells sequentially.
