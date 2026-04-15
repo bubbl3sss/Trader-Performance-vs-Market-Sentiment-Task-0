@@ -56,6 +56,10 @@ Position sizing varies with sentiment
 Behavioral bias in trade direction
 → Long/Short preferences shift based on market sentiment 
 
+## Strategy Recommendations
+Reduce trade frequency during high-volatility Fear phases to avoid overtrading
+Adjust position sizes based on sentiment to manage risk exposure
+
 ## Tech Stack
 Python
 Pandas
